@@ -3,7 +3,7 @@
     "KeyName": {
         "Description": "Key Pair name",
         "Type": "AWS::EC2::KeyPair::KeyName",
-        "Default": "LinuxCFKP"
+        "Default": "LinuxKP"
     },
     "VPC": {
         "Type": "AWS::EC2::VPC::Id",
