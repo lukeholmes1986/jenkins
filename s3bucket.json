@@ -22,7 +22,7 @@
     "SecurityGroup":{
          "Type": "AWS::EC2::SecurityGroup::Id",
          "Default" : "sg-04c933c9c02cc62ec",
-         "AllowedValues": ["sg-xxxxx", "sg-yyy", "sg-zzz"]
+         "AllowedValues": ["sg-04c933c9c02cc62ec", "sg-yyy", "sg-zzz"]
     } 
 },
 "Resources":{
