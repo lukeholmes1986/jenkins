@@ -1,7 +1,6 @@
- {"Description": "LHCF",
+ {"Description": "LHCFBranch",
 "Parameters": {
     "KeyName": {
-        "Description": "Key Pair name",
         "Type": "AWS::EC2::KeyPair::KeyName",
         "Default": "LinuxKP"
     },
